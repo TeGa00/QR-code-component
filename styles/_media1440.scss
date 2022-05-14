@@ -1,7 +1,13 @@
 @media screen and (min-width: 1440px) {
-    .container{
-        .card{
+    .container {
+        .card {
             width: 32rem;
+
+            .title {
+                .heading {
+                    font-size: 2.22rem;
+                }
+            }
         }
     }
 }
